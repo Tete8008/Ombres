@@ -4155,3 +4155,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.27-10.03.35:099][277]LogSavePackage: Moving 'C:/Users/t.candelier/Documents/Ombres/Ombres/Saved/BP_Character75E1198E4963043EBB33AB9373B4AB64.tmp' to 'C:/Users/t.candelier/Documents/Ombres/Ombres/Content/Blueprints/BP_Character.uasset'
 [2019.03.27-10.03.36:606][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.03.27-10.03.36:700][324]BlueprintLog: New page: Compile BP_Character
+[2019.03.27-10.09.03:438][331]LogSavePackage: Moving 'C:/Users/t.candelier/Documents/Ombres/Ombres/Saved/FirstPersonExampleMap_Auto40A6B7597486D8A4550060D97ADC7EB33.tmp' to 'C:/Users/t.candelier/Documents/Ombres/Ombres/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.03.27-10.09.03:457][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.461
+[2019.03.27-10.09.03:458][331]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.461
